@@ -36,3 +36,31 @@ a {
 a:hover {
     color: #0056b3;
 }
+
+/* Additional styles for pasta-tomatenroom.html */
+img {
+    display: block;
+    margin: 20px auto;
+    border-radius: 10px;
+}
+
+h2,
+h3 {
+    text-align: center;
+    color: #555;
+}
+
+ol {
+    max-width: 600px;
+    margin: 20px auto;
+    padding: 0;
+}
+
+ol li {
+    background-color: #fff;
+    margin: 10px 0;
+    padding: 15px;
+    border-radius: 5px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    text-align: center;
+}
